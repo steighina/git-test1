@@ -9,5 +9,6 @@ public class Hello {
         System.out.println("Hello Git!");
 
         System.out.println("程序员A修改了代码");
+        System.out.println("程序员B修改了代码");
     }
 }
